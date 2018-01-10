@@ -1,14 +1,14 @@
 {
-  "name": "Rotation Station",
+  "name": "Cosmas",
   "version": "1.0",
   "manifest_version": 2,
   "chrome_url_overrides": {"newtab": "background.html"},
   "icons": {
-    "128": "rotationLogo.png"
+    "128": "cosmas.png"
   },
 
   "browser_action": {
-    "default_icon": "rotationLogo.png",
+    "default_icon": "cosmas.png",
     "default_title": "Cosmas",
     "default_popup": "background.html"
   }
