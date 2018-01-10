@@ -143,6 +143,15 @@ a {
   margin-bottom: 20px;
 }
 
+#support {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-left: 100px;
+  color: rgba(186, 186, 186, 0.7);
+}
+
 #quizBox:hover {
   background-color: rgba(186, 186, 186, 0.7);
 }
