@@ -129,6 +129,12 @@ a {
   /*background-color: Gainsboro;*/
 }
 
+#helpText {
+  text-align: center;
+  color: rgba(186, 186, 186, 0.9);
+  padding-right: 25%;
+}
+
 #contentPanel {
   margin: 20px;
 }
