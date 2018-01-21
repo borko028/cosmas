@@ -860,7 +860,7 @@ const resourcesTextBox = document.getElementById('resourcesTextBox');
 linksButton.addEventListener('mouseover', function () {
   resourcesBox.style.backgroundColor = "rgba(186, 186, 186, 0.5)";
   resourcesBox.style.width = "340px";
-  resourcesBox.style.height = "350px";
+  resourcesBox.style.height = "380px";
   resourcesTextBox.style.display = "block";
   linksButton.style.opacity = "1";
 });
